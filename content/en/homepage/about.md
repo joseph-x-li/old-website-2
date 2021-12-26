@@ -42,4 +42,4 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
+<img src="panic.jpeg" alt="bruh" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
