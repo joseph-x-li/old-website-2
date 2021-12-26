@@ -11,3 +11,6 @@ main:
   - name: Book Review
     url: /books/
     weight: 4
+  - name: Resume
+    url: /resume.pdf
+    weight: 5
