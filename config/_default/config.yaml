@@ -7,7 +7,7 @@ theme: eureka
 # theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 7
 copyright: >
   &copy; 2021 <a href="https://joseph-x-li.github.io/">Joseph Li</a>
 

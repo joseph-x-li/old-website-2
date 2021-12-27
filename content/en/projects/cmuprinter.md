@@ -1,6 +1,6 @@
 ---
-title: CMU Printer App
-description:
+title: "HackCMU 2019: CMU Printer App"
+description: "A simple app for locating CMU printers."
 toc: true
 authors: []
 tags: []
@@ -13,7 +13,8 @@ featuredImage:
 draft: false
 ---
 
-[Github](https://github.com/joseph-x-li/CMUPrinter)
+[Github](https://github.com/joseph-x-li/CMUPrinter)  
+Teammates: Brian Zhang, Eric Tong, Brian Lee
 
 ## About
 

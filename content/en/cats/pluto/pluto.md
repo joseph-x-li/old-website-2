@@ -66,8 +66,8 @@ Pluto was the only cat willing to participate in the Thanksgiving cat paw turkey
     <img src="/cats/pluto/pluto_5.jpeg">
   </div>
   <div class="i_col_half">
-    <img src="/cats/pluto/pluto_2.jpeg">
     <img src="/cats/pluto/pluto_4.jpeg">
+    <img src="/cats/pluto/pluto_2.jpeg">
     <img src="/cats/pluto/pluto_6.jpeg">
   </div>
 </div>
