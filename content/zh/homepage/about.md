@@ -2,7 +2,7 @@
 title: Joseph Li
 draft: false
 role: Student
-avatar: /profile.png
+avatar: chicken_rice.jpg
 bio: Undergraduate at CMU studying Computer Science.
 organization:
   name: Carnegie Mellon University
@@ -42,4 +42,4 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-<img src="/404.jpeg" alt="bruh" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+<img src="/panic.jpeg" alt="bruh" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">

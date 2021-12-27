@@ -13,7 +13,7 @@ copyright: >
 
 enableEmoji: true
 enableGitInfo: false
-summaryLength: 75
+summaryLength: 70
 
 defaultContentLanguage: en
 hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
@@ -34,6 +34,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      table: true
 
 taxonomies:
   category: categories

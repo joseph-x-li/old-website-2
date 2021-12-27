@@ -11,6 +11,9 @@ main:
   - name: Book Review
     url: /books/
     weight: 4
-  - name: Resume
-    url: /resume.pdf
+  - name: Cat Corner
+    url: /cats/
     weight: 5
+  - name: Resume
+    url: /files/resume.pdf
+    weight: 6
