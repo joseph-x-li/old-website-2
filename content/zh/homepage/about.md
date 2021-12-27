@@ -3,7 +3,7 @@ title: 李欣
 draft: false
 role: 大学生
 avatar: profile.png
-bio: 在CMU学习计算机科学的本科生.
+bio: 在CMU学习计算机科学的本科生。
 organization:
   name: 卡内基梅隆大学
   url: https://www.cmu.edu/
