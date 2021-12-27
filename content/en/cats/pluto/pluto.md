@@ -21,10 +21,10 @@ draft: false
 **Sex:** Male  
 
 > "I was originally gonna adopt a different cat but at the last 
-> second pluto came and rubbed his head against me so I changed 
+> second Pluto came and rubbed his head against me so I changed 
 > my mind and got Pluto instead." - Lawrence Chen
 
-Pluto was the only cat willing to participate in the thanksgiving cat paw drawing event.
+Pluto was the only cat willing to participate in the Thanksgiving cat paw turkey drawing event.
 
 <style>
   .i_row {
