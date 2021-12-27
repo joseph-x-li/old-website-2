@@ -1,6 +1,6 @@
 ---
 title: Miaomi
-description: Edward Li's Cat (1/2)
+description: Edward Li's Cat
 toc: true
 authors: []
 tags: [cat]
@@ -12,3 +12,8 @@ featuredVideo:
 featuredImage:
 draft: true
 ---
+
+## About
+
+## Gallery
+
