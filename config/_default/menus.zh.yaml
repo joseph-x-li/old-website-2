@@ -1,19 +1,19 @@
 main:
-  - name: About
+  - name: 关于我
     url: '#about'
     weight: 1
   - name: 博客
-    url: /blog/
+    url: ../blog/
     weight: 2
   - name: Projects
-    url: /projects/
+    url: ../projects/
     weight: 3
   # - name: Book Review
   #   url: /books/
   #   weight: 4
-  - name: 猫咪角落
-    url: /cats/
+  - name: 猫咪咖啡馆
+    url: ../cats/
     weight: 5
   - name: 简历
-    url: /files/resume.pdf
+    url: ../files/resume.pdf
     weight: 6
