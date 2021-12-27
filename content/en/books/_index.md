@@ -1,7 +1,7 @@
 ---
 title: Books I Have Read
 ---
-<br/><br/>
+<p></p>
 | Title | Medium | Associated Post |
 | :---- | :----: | --------------: |
-| bar | asdf | [hello-world](/en/books/hello-world) |
+| The Big Short | asdf | [Link](/books/the_big_short) |

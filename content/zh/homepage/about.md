@@ -1,11 +1,11 @@
 ---
-title: Joseph Li
+title: 李欣
 draft: false
-role: Student
-avatar: chicken_rice.jpg
-bio: Undergraduate at CMU studying Computer Science.
+role: 大学生
+avatar: profile.png
+bio: 在CMU学习计算机科学的本科生.
 organization:
-  name: Carnegie Mellon University
+  name: 卡内基梅隆大学
   url: https://www.cmu.edu/
 social:
   - icon: youtube
@@ -42,4 +42,4 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-<img src="/panic.jpeg" alt="bruh" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+<img src="/404.jpeg" alt="你好" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">

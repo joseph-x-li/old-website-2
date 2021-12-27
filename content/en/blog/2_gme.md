@@ -13,4 +13,4 @@ featuredImage:
 draft: false
 ---
 
-Currently sitting on 262 shares of GME at average cost <span>$</span>42. As of writing, GME sits at <span>$</span>96 (128% return).
+Currently sitting on 262 shares of GME at average cost 42 dollars. As of writing, GME sits at 96 dollars (128% return).

@@ -20,7 +20,7 @@ draft: false
 **Breed:** Domestic Shorthair  
 **Sex:** Female  
 
-Mimi is a very very very cute Domestic Shorthair. I proposed to Mimi, but Konwoo tells me that she is not interested. According to Konwoo, her name arises from her adoption. She was the third cat in a litter that was named "Eenie" "Meeny" "Miny" etc... After being adopted, her name was slightly modified from "Meeny" to "Mimi".
+Mimi is a very very very cute Domestic Shorthair. I proposed to Mimi, but Konwoo tells me that she is not interested. According to Konwoo, her name is a product of her adoption. She was the third cat in a litter that was named "Eenie" "Meeny" "Miny" etc... After being adopted, her name was slightly modified from "Meeny" to "Mimi".
 
 <style>
   .i_row {
