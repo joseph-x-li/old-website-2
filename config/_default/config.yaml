@@ -13,7 +13,7 @@ copyright: >
 
 enableEmoji: true
 enableGitInfo: false
-summaryLength: 70
+summaryLength: 30
 
 defaultContentLanguage: en
 hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.

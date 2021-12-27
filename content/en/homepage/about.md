@@ -42,4 +42,4 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-<img src="/404.jpeg" alt="bruh" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+<img src="/404.jpeg" alt="secret message hehe" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
