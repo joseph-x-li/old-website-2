@@ -1,23 +1,23 @@
 ---
-title: Miaomi
+title: Doudou
 description: Edward Li's Cat
 toc: true
 authors: []
 tags: [cat]
 categories: []
 series: []
-date: 2021-12-27T13:00:19-08:00
-lastmod: 2021-12-27T13:00:19-08:00
+date: 2021-12-27T15:13:55-08:00
+lastmod: 2021-12-27T15:13:55-08:00
 featuredVideo:
 featuredImage:
-draft: false
+draft: true
 ---
 
 ## About
 
 **Location:** Hackensack, New Jersey  
 **Owner:** Edward Li and his family  
-**Breed:** Domestic Shorthair  
+**Breed:** ???  
 **Sex:** Female  
 
 Fun Facts???

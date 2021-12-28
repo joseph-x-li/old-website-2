@@ -8,15 +8,15 @@ organization:
   name: 卡内基梅隆大学
   url: https://www.cmu.edu/
 social:
-  - icon: youtube
-    iconPack: fab
-    url: https://www.youtube.com/channel/UChe6qsUjcNHVFleiMX9pzsg
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/joseph-x-li/
   - icon: github
     iconPack: fab
     url: https://www.github.com/joseph-x-li
+  - icon: youtube
+    iconPack: fab
+    url: https://www.youtube.com/channel/UChe6qsUjcNHVFleiMX9pzsg
 
 weight: 1
 widget:
