@@ -6,8 +6,8 @@ authors: []
 tags: []
 categories: []
 series: []
-date: 2021-12-30T23:40:37-08:00
-lastmod: 2021-12-30T23:40:37-08:00
+date: 2021-12-31T23:40:37-08:00
+lastmod: 2021-12-31T23:40:37-08:00
 featuredVideo:
 featuredImage:
 draft: false
@@ -50,7 +50,7 @@ The following are aspects of life I gave conscious thought to during 2021. I jus
 ### Human Languages
  - **Chinese:** If all goes well, I should be brushing my teeth in the morning again, so hopefully this habit will naturally regrow. To supplement the flashcard app, I have written and am planning to write translations for Chinese songs, newspaper articles, and other media.
  - **Japanese:** Keep Duolingo going strong. I got Duolingo Premium on a huge new year sale -- I use this app a lot, so why not pay for it and make it a more pleasant experience. I hope I can reach JLPT N4 level by the end of 2022.
- - **Korean:** Be able to quickly read Korean. I am not too interested in understanding Korean, I just want to be able to quickly read it. This is mostly so that I can actually sing the Korean songs that people queue up on karaoke machines. Also, this completes the CJK trio. In middle school, I had some weird goal of being able to read CJK. It looks like it will actually be realized.
+ - **Korean:** Be able to quickly read Korean. I am not too interested in understanding Korean, I just want to be able to quickly read it. This is mostly so that I can actually sing the Korean songs that people queue up on karaoke machines. Also, this completes the CJK trio. In middle school, I had some weird goal of being able to read CJK. It looks like it will soon be realized.
  - **English:** Actually study the word list I made in 2021. Using Quizlet, this shouldn't be too hard.
 
 ### Computer Languages

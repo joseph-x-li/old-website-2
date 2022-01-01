@@ -9,7 +9,7 @@ series: []
 date: 2021-12-27T04:28:12-08:00
 lastmod: 2021-12-27T04:28:12-08:00
 featuredVideo:
-featuredImage:
+featuredImage: /cats/pluto/pluto_7.jpeg
 draft: false
 ---
 

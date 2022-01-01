@@ -9,7 +9,7 @@ series: []
 date: 2021-12-26T19:42:41-08:00
 lastmod: 2021-12-26T19:42:41-08:00
 featuredVideo:
-featuredImage:
+featuredImage: /cats/mimi/mimi_2.jpeg
 draft: false
 ---
 
