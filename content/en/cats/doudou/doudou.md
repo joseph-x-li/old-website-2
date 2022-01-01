@@ -9,15 +9,15 @@ series: []
 date: 2021-12-27T15:13:55-08:00
 lastmod: 2021-12-27T15:13:55-08:00
 featuredVideo:
-featuredImage: /cats/miaomi/miaomi_4.jpeg
-draft: true
+featuredImage: /cats/doudou/doudou_5.jpeg
+draft: false
 ---
 
 ## About
 
 **Location:** Hackensack, New Jersey  
 **Owner:** Edward Li and his family  
-**Breed:** Unknown  
+**Breed:** Maine Coon  
 **Sex:** Female  
 
 Doudou (豆豆), which means bean in Chinese, is called this because when she was adopted, her name was Bean. 
@@ -54,16 +54,17 @@ Doudou (豆豆), which means bean in Chinese, is called this because when she wa
 ## Gallery
 <div class="i_row">
   <div class="i_col_full">
-    <img src="/cats/miaomi/miaomi_1.jpeg">
+    <img src="/cats/doudou/doudou_5.jpeg">
   </div>
   <div class="i_col_half">
-    <img src="/cats/miaomi/miaomi_2.jpeg">
-    <img src="/cats/miaomi/miaomi_3.jpeg">
-    <img src="/cats/miaomi/miaomi_5.JPG">
+    <img src="/cats/doudou/doudou_1.jpeg">
+    <img src="/cats/doudou/doudou_3.jpeg">
+    <img src="/cats/doudou/doudou_5.jpeg">
   </div>
   <div class="i_col_half">
-    <img src="/cats/miaomi/miaomi_4.jpeg">
-    <img src="/cats/miaomi/miaomi_6.jpeg">
-    <img src="/cats/miaomi/miaomi_7.jpeg">
+    <img src="/cats/doudou/doudou_2.jpeg">
+    <img src="/cats/doudou/doudou_4.jpeg">
+    <img src="/cats/doudou/doudou_6.jpeg">
+    <img src="/cats/doudou/doudou_7.jpeg">
   </div>
 </div>

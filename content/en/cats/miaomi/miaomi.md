@@ -9,7 +9,7 @@ series: []
 date: 2021-12-27T13:00:19-08:00
 lastmod: 2021-12-27T13:00:19-08:00
 featuredVideo:
-featuredImage:
+featuredImage: /cats/miaomi/miaomi_6.jpeg
 draft: false
 ---
 
@@ -63,7 +63,7 @@ Fun Facts???
   </div>
   <div class="i_col_half">
     <img src="/cats/miaomi/miaomi_4.jpeg">
-    <img src="/cats/miaomi/miaomi_6.jpeg">
+    <img src="/cats/miaomi/miaomi_0.jpeg">
     <img src="/cats/miaomi/miaomi_7.jpeg">
   </div>
 </div>
