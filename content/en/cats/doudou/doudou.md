@@ -9,7 +9,7 @@ series: []
 date: 2021-12-27T15:13:55-08:00
 lastmod: 2021-12-27T15:13:55-08:00
 featuredVideo:
-featuredImage:
+featuredImage: /cats/miaomi/miaomi_4.jpeg
 draft: true
 ---
 
