@@ -1,5 +1,5 @@
 ---
-title: Doudou
+title: Doudou (豆豆)
 description: Edward Li's Cat
 toc: true
 authors: []
@@ -17,10 +17,10 @@ draft: true
 
 **Location:** Hackensack, New Jersey  
 **Owner:** Edward Li and his family  
-**Breed:** ???  
+**Breed:** Unknown  
 **Sex:** Female  
 
-Fun Facts???
+Doudou (豆豆), which means bean in Chinese, is called this because when she was adopted, her name was Bean. 
 
 <style>
   .i_row {

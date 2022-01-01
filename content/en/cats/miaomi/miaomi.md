@@ -1,5 +1,5 @@
 ---
-title: Miaomi
+title: Miaomi (喵咪)
 description: Edward Li's Cat
 toc: true
 authors: []
