@@ -6,8 +6,8 @@ authors: []
 tags: [cat]
 categories: []
 series: []
-date: 2021-12-27T15:13:55-08:00
-lastmod: 2021-12-27T15:13:55-08:00
+date: 2022-01-01T15:13:55-08:00
+lastmod: 2022-01-01T15:13:55-08:00
 featuredVideo:
 featuredImage: /cats/doudou/doudou_5.jpeg
 draft: false
@@ -15,7 +15,7 @@ draft: false
 
 ## About
 
-**Location:** Hackensack, New Jersey  
+**Location:** Ridgewood, New Jersey  
 **Owner:** Edward Li and his family  
 **Breed:** Maine Coon  
 **Sex:** Female  

@@ -1,26 +1,26 @@
 ---
-title: Miaomi (喵咪)
-description: Edward Li's Cat
+title: Praline
+description: David Buffkin's Cat
 toc: true
 authors: []
 tags: [cat]
 categories: []
 series: []
-date: 2021-12-27T13:00:19-08:00
-lastmod: 2021-12-27T13:00:19-08:00
+date: 2022-01-01T15:34:58-08:00
+lastmod: 2022-01-01T15:34:58-08:00
 featuredVideo:
-featuredImage: /cats/miaomi/miaomi_6.jpeg
+featuredImage: /cats/praline/praline_1.jpeg
 draft: false
 ---
 
 ## About
 
-**Location:** Ridgewood, New Jersey  
-**Owner:** Edward Li and his family  
-**Breed:** Domestic Shorthair  
+**Location:** Gainesville, Florida  
+**Owner:** David Buffkin and his family  
+**Breed:** Calico  
 **Sex:** Female  
 
-Fun Facts???
+## Gallery
 
 <style>
   .i_row {
@@ -50,20 +50,16 @@ Fun Facts???
     vertical-align: middle;
   }
 </style>
-
-## Gallery
 <div class="i_row">
   <div class="i_col_full">
-    <img src="/cats/miaomi/miaomi_1.jpeg">
+    <img src="/cats/praline/praline_1.jpeg">
   </div>
   <div class="i_col_half">
-    <img src="/cats/miaomi/miaomi_2.jpeg">
-    <img src="/cats/miaomi/miaomi_3.jpeg">
-    <img src="/cats/miaomi/miaomi_5.JPG">
+    <img src="/cats/praline/praline_3.jpeg">
+    <img src="/cats/praline/praline_5.jpeg">
   </div>
   <div class="i_col_half">
-    <img src="/cats/miaomi/miaomi_4.jpeg">
-    <img src="/cats/miaomi/miaomi_0.jpeg">
-    <img src="/cats/miaomi/miaomi_7.jpeg">
+    <img src="/cats/praline/praline_4.jpeg">
+    <img src="/cats/praline/praline_6.jpeg">
   </div>
 </div>
