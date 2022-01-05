@@ -20,46 +20,36 @@ draft: false
 **Breed:** Calico  
 **Sex:** Female  
 
-## Gallery
-
 <style>
-  .i_row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
+  .columns {
+    list-style-type: none !important;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
+    columns: 400px;
+    break-inside: avoid;
+    column-gap: 0px;
   }
 
-  /* Create two equal columns that sits next to each other */
-  .i_col_half {
-    flex: 50%;
-    padding: 0 4px;
+  .item {
+    margin: 0 4px 8px 4px !important;
+    padding: 0 0 0 0 !important;
   }
 
-  .i_col_half img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .item > img {
+    width: 100%;
+    display: block;
+    object-fit: contain;
   }
-
-  .i_col_full {
-    flex: 100%;
-    padding: 0 4px;
-  }
-
-  .i_col_full img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .aspect {
+    aspect-ratio: 16/9;
   }
 </style>
-<div class="i_row">
-  <div class="i_col_full">
-    <img src="/cats/praline/praline_1.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/praline/praline_3.jpeg">
-    <img src="/cats/praline/praline_5.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/praline/praline_4.jpeg">
-    <img src="/cats/praline/praline_6.jpeg">
-  </div>
-</div>
+
+## Gallery
+<ul class="columns">
+  <li class="item"><img src="/cats/praline/praline_1.jpeg"></li>
+  <li class="item"><img src="/cats/praline/praline_3.jpeg"></li>
+  <li class="item"><img src="/cats/praline/praline_5.jpeg"></li>
+  <li class="item"><img src="/cats/praline/praline_4.jpeg"></li>
+  <li class="item"><img src="/cats/praline/praline_6.jpeg"></li>
+</ul>

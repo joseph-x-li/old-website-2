@@ -27,47 +27,40 @@ draft: false
 Pluto was the only cat willing to participate in the Thanksgiving cat paw turkey drawing event.
 
 <style>
-  .i_row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
+  .columns {
+    list-style-type: none !important;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
+    columns: 400px;
+    break-inside: avoid;
+    column-gap: 0px;
   }
 
-  /* Create two equal columns that sits next to each other */
-  .i_col_half {
-    flex: 50%;
-    padding: 0 4px;
+  .item {
+    margin: 0 4px 8px 4px !important;
+    padding: 0 0 0 0 !important;
   }
 
-  .i_col_half img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .item > img {
+    width: 100%;
+    display: block;
+    object-fit: contain;
   }
-
-  .i_col_full {
-    flex: 100%;
-    padding: 0 4px;
-  }
-
-  .i_col_full img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .aspect {
+    aspect-ratio: 16/9;
   }
 </style>
 
+
+
 ## Gallery
-<div class="i_row">
-  <div class="i_col_full">
-    <img src="/cats/pluto/pluto_7.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/pluto/pluto_1.jpeg">
-    <img src="/cats/pluto/pluto_3.jpeg">
-    <img src="/cats/pluto/pluto_5.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/pluto/pluto_4.jpeg">
-    <img src="/cats/pluto/pluto_2.jpeg">
-    <img src="/cats/pluto/pluto_6.jpeg">
-  </div>
-</div>
+<ul class="columns">
+  <li class="item"><img src="/cats/pluto/pluto_7.jpeg"></li>
+  <li class="item aspect"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/3t_73hkWFaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+  <li class="item"><img src="/cats/pluto/pluto_4.jpeg"></li>
+  <li class="item"><img src="/cats/pluto/pluto_6.jpeg"></li>
+  <li class="item"><img src="/cats/pluto/pluto_1.jpeg"></li>
+  <li class="item"><img src="/cats/pluto/pluto_2.jpeg"></li>
+  <li class="item"><img src="/cats/pluto/pluto_3.jpeg"></li>
+  <li class="item"><img src="/cats/pluto/pluto_5.jpeg"></li>
+</ul>

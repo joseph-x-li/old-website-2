@@ -23,45 +23,35 @@ draft: false
 Mimi is a very very very cute Domestic Shorthair. I proposed to Mimi, but Konwoo tells me that she is not interested. According to Konwoo, her name is a product of her adoption. She was the second cat in a litter that was named "Eenie" "Meeny" "Miny" et al. After being adopted, her name was slightly modified from "Meeny" to "Mimi" for pronunciation reasons.
 
 <style>
-  .i_row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
+  .columns {
+    list-style-type: none !important;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
+    columns: 400px;
+    break-inside: avoid;
+    column-gap: 0px;
   }
 
-  /* Create two equal columns that sits next to each other */
-  .i_col_half {
-    flex: 50%;
-    padding: 0 4px;
+  .item {
+    margin: 0 4px 8px 4px !important;
+    padding: 0 0 0 0 !important;
   }
 
-  .i_col_half img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .item > img {
+    width: 100%;
+    display: block;
+    object-fit: contain;
   }
-
-  .i_col_full {
-    flex: 100%;
-    padding: 0 4px;
-  }
-
-  .i_col_full img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .aspect {
+    aspect-ratio: 16/9;
   }
 </style>
 
 ## Gallery
-<div class="i_row">
-  <div class="i_col_full">
-    <img src="/cats/mimi/mimi_2.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/mimi/mimi_1.jpeg">
-    <img src="/cats/mimi/mimi_5.png">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/mimi/mimi_4.jpeg">
-    <img src="/cats/mimi/mimi_3.jpeg">
-  </div>
-</div>
+<ul class="columns">
+  <li class="item"><img src="/cats/mimi/mimi_2.jpeg"></li>
+  <li class="item"><img src="/cats/mimi/mimi_1.jpeg"></li>
+  <li class="item"><img src="/cats/mimi/mimi_5.png"></li>
+  <li class="item"><img src="/cats/mimi/mimi_4.jpeg"></li>
+  <li class="item"><img src="/cats/mimi/mimi_3.jpeg"></li>
+</ul>

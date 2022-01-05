@@ -23,48 +23,38 @@ draft: false
 Doudou (豆豆), which means bean in Chinese, is called this because when she was adopted, her name was Bean. 
 
 <style>
-  .i_row {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
+  .columns {
+    list-style-type: none !important;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
+    columns: 400px;
+    break-inside: avoid;
+    column-gap: 0px;
   }
 
-  /* Create two equal columns that sits next to each other */
-  .i_col_half {
-    flex: 50%;
-    padding: 0 4px;
+  .item {
+    margin: 0 4px 8px 4px !important;
+    padding: 0 0 0 0 !important;
   }
 
-  .i_col_half img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .item > img {
+    width: 100%;
+    display: block;
+    object-fit: contain;
   }
-
-  .i_col_full {
-    flex: 100%;
-    padding: 0 4px;
-  }
-
-  .i_col_full img {
-    margin-top: 8px;
-    vertical-align: middle;
+  .aspect {
+    aspect-ratio: 16/9;
   }
 </style>
 
 ## Gallery
-<div class="i_row">
-  <div class="i_col_full">
-    <img src="/cats/doudou/doudou_5.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/doudou/doudou_1.jpeg">
-    <img src="/cats/doudou/doudou_3.jpeg">
-    <img src="/cats/doudou/doudou_5.jpeg">
-  </div>
-  <div class="i_col_half">
-    <img src="/cats/doudou/doudou_2.jpeg">
-    <img src="/cats/doudou/doudou_4.jpeg">
-    <img src="/cats/doudou/doudou_6.jpeg">
-    <img src="/cats/doudou/doudou_7.jpeg">
-  </div>
-</div>
+<ul class="columns">
+  <li class="item"><img src="/cats/doudou/doudou_5.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_1.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_3.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_5.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_2.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_4.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_6.jpeg"></li>
+  <li class="item"><img src="/cats/doudou/doudou_7.jpeg"></li>
+</ul>
