@@ -26,30 +26,9 @@ draft: false
 
 Pluto was the only cat willing to participate in the Thanksgiving cat paw turkey drawing event.
 
-<style>
-  .columns {
-    list-style-type: none !important;
-    padding: 0 0 0 0 !important;
-    margin: 0 0 0 0 !important;
-    columns: 400px;
-    break-inside: avoid;
-    column-gap: 0px;
-  }
-
-  .item {
-    margin: 0 4px 8px 4px !important;
-    padding: 0 0 0 0 !important;
-  }
-
-  .item > img {
-    width: 100%;
-    display: block;
-    object-fit: contain;
-  }
-  .aspect {
-    aspect-ratio: 16/9;
-  }
-</style>
+<head>
+<link rel="stylesheet" href="/cats/collage.css">
+</head>
 
 
 

@@ -3,7 +3,7 @@ title: Joseph Li
 draft: false
 role: Student
 avatar: /profile.png
-bio: Undergraduate at CMU studying Computer Science.
+bio: Undergraduate at CMU studying Computer Science with concentrations in ML and Systems.
 organization:
   name: Carnegie Mellon University
   url: https://www.cmu.edu/

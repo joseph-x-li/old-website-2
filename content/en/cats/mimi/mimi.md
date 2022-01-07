@@ -22,30 +22,9 @@ draft: false
 
 Mimi is a very very very cute Domestic Shorthair. I proposed to Mimi, but Konwoo tells me that she is not interested. According to Konwoo, her name is a product of her adoption. She was the second cat in a litter that was named "Eenie" "Meeny" "Miny" et al. After being adopted, her name was slightly modified from "Meeny" to "Mimi" for pronunciation reasons.
 
-<style>
-  .columns {
-    list-style-type: none !important;
-    padding: 0 0 0 0 !important;
-    margin: 0 0 0 0 !important;
-    columns: 400px;
-    break-inside: avoid;
-    column-gap: 0px;
-  }
-
-  .item {
-    margin: 0 4px 8px 4px !important;
-    padding: 0 0 0 0 !important;
-  }
-
-  .item > img {
-    width: 100%;
-    display: block;
-    object-fit: contain;
-  }
-  .aspect {
-    aspect-ratio: 16/9;
-  }
-</style>
+<head>
+<link rel="stylesheet" href="/cats/collage.css">
+</head>
 
 ## Gallery
 <ul class="columns">

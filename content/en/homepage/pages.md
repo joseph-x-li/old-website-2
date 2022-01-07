@@ -6,7 +6,7 @@ section: blog
 # Pages count
 count:
 # Options: card, plain and masonry.
-style: masonry
+style: card
 
 weight: 4
 widget:
