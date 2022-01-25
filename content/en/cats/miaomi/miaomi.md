@@ -20,7 +20,7 @@ draft: false
 **Breed:** Domestic Shorthair  
 **Sex:** Female  
 
-Fun Facts???
+Fun Fact: May or may not have contracted COVID-19.
 
 <head>
 <link rel="stylesheet" href="/cats/collage.css">
