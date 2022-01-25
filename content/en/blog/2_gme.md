@@ -1,6 +1,6 @@
 ---
 title: $GME 2021
-description:
+description: BUY GME!
 toc: true
 authors: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: Just Finished HackMIT
-description:
+description: 24 painful hours.
 toc: true
 authors: []
 tags: []
