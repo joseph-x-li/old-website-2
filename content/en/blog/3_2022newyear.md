@@ -42,7 +42,7 @@ The following are aspects of life I gave conscious thought to during 2021. I jus
  - `Python`: Big year for Python. Pystreaming, warehouse-robots, IBM internship, and a few other side projects. 
 
 ### Habits
- - I stopped using my phone while in bed right after I got back on campus. It was like quitting cold turkey. I decided it was a horrible practice that had to end immediately.
+ - I stopped using my phone while in bed right after I got back on campus. It was like quitting cold turkey. I decided it was a horrible practice so I suddenly decided to stop.
  - I didn't really set any concrete goals to hit by the end of 2021, so there's not much else to say here. Being at home most of the year due to COVID lulled me back into being a lazy highschooler. Having my nagging parents around didn't help either. But I was able to bike a lot, so let's be grateful for that.
 
 ## Goals for 2022
@@ -61,6 +61,6 @@ The following are aspects of life I gave conscious thought to during 2021. I jus
 
 ### Habits
  - Don't use your phone while trying to sleep. I did well in 2021, let's see how it goes in 2022. 
- - Actually go to lectures, or at least wake up before lectures begin. The 8:30am compilers lecture is gone, so there is no excuse now.
+ - Actually go to lectures, or at least wake up before lectures begin. The 8:30am Compilers lecture is gone, so there is no excuse now.
  - No eating snacks, especially close to bedtime. Possibly enforce this by throwing away existing snacks then bankrupting myself so that I cannot buy more.
  - Hit the gym; it's literally downstairs.
