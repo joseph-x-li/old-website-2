@@ -12,3 +12,5 @@ featuredVideo:
 featuredImage: 
 draft: true
 ---
+
+If you didn't know, bike prices soared 50% to 150% when the pandemic hit as many people decided to switch hobbies.
