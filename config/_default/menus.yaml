@@ -8,9 +8,9 @@ main:
   - name: Projects
     url: /projects/
     weight: 3
-  # - name: Book Review
-  #   url: /books/
-  #   weight: 4
+  - name: Articles
+    url: /docs/
+    weight: 4
   - name: Cat Corner
     url: /cats/
     weight: 5
