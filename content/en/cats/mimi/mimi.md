@@ -33,4 +33,5 @@ Mimi is a very very very cute Domestic Shorthair. I proposed to Mimi, but Konwoo
   <li class="item"><img src="/cats/mimi/mimi_5.png"></li>
   <li class="item"><img src="/cats/mimi/mimi_4.jpeg"></li>
   <li class="item"><img src="/cats/mimi/mimi_3.jpeg"></li>
+  <li class="item"><img src="/cats/mimi/mimi_6.jpeg"></li>
 </ul>

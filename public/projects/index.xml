@@ -18,7 +18,7 @@
       <description>Github
 About Includes basic functionality of typical typing-test programs (typeracer, 10 fast fingers).
 Green/Red highlights correct and incorrect keystrokes
- How it works A matplotlib pyplot is embedded as a tkinter widget.</description>
+How it works A matplotlib pyplot is embedded as a tkinter widget.</description>
     </item>
     
     <item>

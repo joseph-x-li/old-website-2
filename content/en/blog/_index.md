@@ -2,4 +2,4 @@
 title: Blog
 ---
 <p></p>
-Topics range from bikes to C++ to Python to Rust to ML and more.
+Topics range from bikes to coding to ML and more.

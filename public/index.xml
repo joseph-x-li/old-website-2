@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2021-2022 &lt;a href=&#34;https://joseph-x-li.github.io/&#34;&gt;Joseph Li&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 25 Jan 2022 00:19:37 -0800</lastBuildDate><atom:link href="https://joseph-x-li.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 03:16:24 -0700</lastBuildDate><atom:link href="https://joseph-x-li.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>China Writers</title>
       <link>https://joseph-x-li.github.io/docs/china/writers/</link>
@@ -16,7 +16,7 @@
       
       <guid>https://joseph-x-li.github.io/docs/china/writers/</guid>
       <description>China observers that I follow.
-   Author Content Lean Description     Alex Lo  SCMP SCMP China Lo is a columnist at the South China Morning Post, a Hong-Kong based newspaper.</description>
+Author Content Lean Description Alex Lo SCMP SCMP China Lo is a columnist at the South China Morning Post, a Hong-Kong based newspaper. Read this man to get SCMP&amp;rsquo;s hottest takes.</description>
     </item>
     
     <item>
@@ -27,7 +27,16 @@
       <guid>https://joseph-x-li.github.io/docs/china/books/</guid>
       <description>China books that I have read.
 Politics The following books analyze China&amp;rsquo;s politics, including foreign policy, domestic policy, history, governance, and culture.
-   Title (Author) Description     Haunted by Chaos (Sulmaan Khan) Decent summary of PRC and CPC history.</description>
+Title (Author) Description Haunted by Chaos (Sulmaan Khan) Decent summary of PRC and CPC history.</description>
+    </item>
+    
+    <item>
+      <title>New Bike: Poseidon X Dropbar</title>
+      <link>https://joseph-x-li.github.io/blog/5_new_bike/content/</link>
+      <pubDate>Thu, 30 Jun 2022 03:16:24 -0700</pubDate>
+      
+      <guid>https://joseph-x-li.github.io/blog/5_new_bike/content/</guid>
+      <description>Poseidon is a DTC bike manufacturer.</description>
     </item>
     
     <item>
@@ -40,7 +49,7 @@ Politics The following books analyze China&amp;rsquo;s politics, including forei
 Owner: David Buffkin and his family
 Breed: Calico
 Sex: Female
-  Gallery      </description>
+Gallery </description>
     </item>
     
     <item>
@@ -54,10 +63,10 @@ Sex: Female
     
     <item>
       <title>2022 New Year and New Website</title>
-      <link>https://joseph-x-li.github.io/blog/3_2022newyear/</link>
+      <link>https://joseph-x-li.github.io/blog/4_2022newyear/content/</link>
       <pubDate>Fri, 31 Dec 2021 23:40:37 -0800</pubDate>
       
-      <guid>https://joseph-x-li.github.io/blog/3_2022newyear/</guid>
+      <guid>https://joseph-x-li.github.io/blog/4_2022newyear/content/</guid>
       <description>New Website This blog post is the first on a new website powered by Hugo (past posts were imported). I spent way too long looking for an alternative to the abomination that is Jekyll along with its horrific Ruby version conflicts.</description>
     </item>
     
@@ -70,7 +79,7 @@ Sex: Female
       <description>Github
 About Includes basic functionality of typical typing-test programs (typeracer, 10 fast fingers).
 Green/Red highlights correct and incorrect keystrokes
- How it works A matplotlib pyplot is embedded as a tkinter widget.</description>
+How it works A matplotlib pyplot is embedded as a tkinter widget.</description>
     </item>
     
     <item>
@@ -137,7 +146,7 @@ About In the past, studying bird migrations and populations has always been a ar
 Owner: Lawrence Chen and his family
 Breed: Tabby
 Sex: Male
- &amp;ldquo;I was originally gonna adopt a different cat but at the last second Pluto came and rubbed his head against me so I changed my mind and got Pluto instead.</description>
+&amp;ldquo;I was originally gonna adopt a different cat but at the last second Pluto came and rubbed his head against me so I changed my mind and got Pluto instead.</description>
     </item>
     
     <item>
@@ -166,20 +175,11 @@ About Several of our team members remember when we needed to print magazine size
     
     <item>
       <title>$GME 2021</title>
-      <link>https://joseph-x-li.github.io/blog/2_gme/</link>
+      <link>https://joseph-x-li.github.io/blog/2_gme/content/</link>
       <pubDate>Mon, 25 Jan 2021 20:03:33 -0800</pubDate>
       
-      <guid>https://joseph-x-li.github.io/blog/2_gme/</guid>
+      <guid>https://joseph-x-li.github.io/blog/2_gme/content/</guid>
       <description>Currently sitting on 262 shares of GME at average cost 42 dollars. As of writing, GME sits at 96 dollars (128% return).</description>
-    </item>
-    
-    <item>
-      <title>Just Finished HackMIT</title>
-      <link>https://joseph-x-li.github.io/blog/1_hack_mit/</link>
-      <pubDate>Mon, 21 Sep 2020 01:05:52 -0800</pubDate>
-      
-      <guid>https://joseph-x-li.github.io/blog/1_hack_mit/</guid>
-      <description>We won the NASDAQ challenge for compensating for audio delay in livestreamed music. The motivation behind this project was to coordinate music-related events during COVID social distancing. Think bands or acapella groups (shoutout to joyful noise).</description>
     </item>
     
   </channel>
