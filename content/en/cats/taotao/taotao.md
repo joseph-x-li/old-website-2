@@ -18,7 +18,7 @@ draft: true
 
 **Location:** Saratoga, CA  
 **Owner:** Joseph Li and his family  
-**Breed:** Domestic Shorthair  
+**Breed:** Domestic Short Hair Mix  
 **Sex:** Female  
 
 Taotao is Maomao's younger sister. She is very timid but loves to eat and often brazenly steals Maomao's food. Maomao doesn't seem to care. Her hair is much shorter than Maomao's. 
