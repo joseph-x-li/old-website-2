@@ -17,6 +17,7 @@
 
 .item > img {
   margin: 0 0 0 0 !important;
+  padding: 0 0 0 0 !important;
   width: 100%;
   display: block;
   object-fit: contain;
