@@ -15,10 +15,13 @@ draft: false
 
 ## About
 
+
 **Location:** Gainesville, Florida  
 **Owner:** David Buffkin and his family  
 **Breed:** Calico  
 **Sex:** Female  
+
+Praline is old and might pass soon. Please pray for Praline!!!  
 
 <head>
 <link rel="stylesheet" href="/cats/collage.css">

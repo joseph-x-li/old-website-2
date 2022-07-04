@@ -1,5 +1,5 @@
 ---
-title: Mimi
+title: "Mimi (미미)"
 description: Konwoo Kim's Cat
 toc: true
 authors: []

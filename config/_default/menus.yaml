@@ -11,7 +11,7 @@ main:
   - name: Articles
     url: /docs/
     weight: 4
-  - name: Cat Corner
+  - name: Cat Cafe
     url: /cats/
     weight: 5
   - name: Resume
