@@ -21,7 +21,7 @@ draft: false
 **Breed:** Calico  
 **Sex:** Female  
 
-Praline is old and might pass soon. Please pray for Praline!!!  
+Praline has been caught playing poker. She is old and might pass soon. Please pray for Praline!!!  
 
 <head>
 <link rel="stylesheet" href="/cats/collage.css">
