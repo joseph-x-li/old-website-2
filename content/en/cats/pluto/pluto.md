@@ -26,6 +26,8 @@ draft: false
 
 Pluto was the only cat willing to participate in the Thanksgiving cat paw turkey drawing event.
 
+Pluto recently got stuck in a really tall tree and was brought down by some firefighters. How embarrassing... 
+
 <head>
 <link rel="stylesheet" href="/cats/collage.css">
 </head>

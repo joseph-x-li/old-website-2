@@ -1,6 +1,6 @@
 ---
-title: Maomao
-description:
+title: Maomao (毛毛)
+description: "My Cat #1"
 toc: true
 authors: []
 tags: [cat]
@@ -9,8 +9,8 @@ series: []
 date: 2022-07-03T23:36:12-07:00
 lastmod: 2022-07-03T23:36:12-07:00
 featuredVideo:
-featuredImage:
-draft: true
+featuredImage: /cats/maomao/maomao_1.jpeg
+draft: false
 ---
 
 ## About
@@ -21,10 +21,13 @@ draft: true
 **Breed:** Domestic Short Hair Mix  
 **Sex:** Female  
 
-Taotao is Maomao's younger sister. She was called "Emma" at her foster home. She is very timid but loves to eat and often brazenly steals Maomao's food. Maomao doesn't seem to care, however. Her hair is much shorter than Maomao's. 
+Maomao was called Furball before we adopted her. The name we gave her means "fur fur" in Chinese which translates to furry (adj).
+
+Maomao is a very carefree cat. She will let you pick her up and play with her (I abuse this a bit). Unlike Taotao, Maomao is brave enough to hunt the live mice/rats we give her. When I say give her, I mean lock in a shower with her. She has gotten stuck in a tree, tried to fish in my fish tank, and fell in our pool.
 
 <head>
 <link rel="stylesheet" href="/cats/collage.css">
 </head>
 
 ## Gallery
+Coming soon... (with rat fighting footage)
