@@ -8,11 +8,15 @@
 }
 
 .item {
-  margin: 0 4px 8px 4px !important;
+  margin-top: 0px !important;
+  margin-left: 4px !important;
+  margin-right: 4px !important;
+  margin-bottom: 8px !important;
   padding: 0 0 0 0 !important;
 }
 
 .item > img {
+  margin: 0 0 0 0 !important;
   width: 100%;
   display: block;
   object-fit: contain;
