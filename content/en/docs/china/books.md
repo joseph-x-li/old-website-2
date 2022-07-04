@@ -27,5 +27,7 @@ The following books analyze China's economic policies, initiatives, and realitie
 
 | Title (Author) | Description |
 |------|------|
-| Up and Out of Poverty <br> (Xi Jinping) | Documentary of efforts to open up the economy of Fujian Province. |
-| The China Questions <br> (Jennifer Rudolph, Michael Szonyi) | A good introduction into modern China for the uninitiated. |
+| Up and Out of Poverty <br> (Xi Jinping) | Xi Jinping was the Governor of Fujian Province from 1999 to 2002, where he managed a population of 34 million people (cf. Fifth National Census). He documents his efforts to open up and reform its economy.  |
+| The China Questions <br> (Jennifer Rudolph, Michael Szonyi) | A good introduction on modern China for the uninitiated. |
+| Dealing With China <br> (Henry Paulson) | Paulson was CEO of Goldman Sachs and was famously chairman of the Federal Reserve during the Great Financial Crisis (2008). This book details his experiences in opening up private enterprise in China. |
+| How Asia Works <br> (Joe Studwell) | On my bookshelf... |
