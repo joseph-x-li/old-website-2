@@ -1,0 +1,27 @@
+.columns {
+  list-style-type: none !important;
+  padding: 0 0 0 0 !important;
+  margin: 0 0 0 0 !important;
+  columns: 350px;
+  break-inside: avoid;
+  column-gap: 0px;
+}
+
+.item {
+  margin-top: 0px !important;
+  margin-left: 4px !important;
+  margin-right: 4px !important;
+  margin-bottom: 8px !important;
+  padding: 0 0 0 0 !important;
+}
+
+.item > img {
+  margin: 0 0 0 0 !important;
+  padding: 0 0 0 0 !important;
+  width: 100%;
+  display: block;
+  object-fit: contain;
+}
+.aspect {
+  aspect-ratio: 16/9;
+}
