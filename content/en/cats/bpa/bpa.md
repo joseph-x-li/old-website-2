@@ -1,6 +1,6 @@
 ---
 title: Butter, Peanut, and A
-description:
+description: Katie Yoon's Cats
 toc: true
 authors: []
 tags: [cat]
