@@ -30,4 +30,12 @@ Maomao is a very carefree cat. She will let you pick her up and play with her (I
 </head>
 
 ## Gallery
-Coming soon... (with rat fighting footage)
+
+<ul class="columns">
+  <li class="item"><img src="/cats/maomao/maomao_1.jpeg"></li>
+  <li class="item"><img src="/cats/maomao/maomao_2.jpeg"></li>
+  <li class="item"><img src="/cats/maomao/maomao_3.jpeg"></li>
+  <li class="item"><img src="/cats/maomao/maomao_4.jpeg"></li>
+  <li class="item"><img src="/cats/maomao/maomao_5.jpeg"></li>
+  <li class="item"><img src="/cats/maomao/maomao_6.jpeg"></li>
+</ul>
