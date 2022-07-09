@@ -24,3 +24,10 @@ draft: true
 
 
 ## How It Works
+
+# MORE IDEAS
+
+ - JARR
+ - Milk Compiler 
+ - camera project
+ - Melodica???

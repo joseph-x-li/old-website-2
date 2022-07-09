@@ -10,7 +10,7 @@ date: 2022-07-08T11:12:04-07:00
 lastmod: 2022-07-08T11:12:04-07:00
 featuredVideo: 
 featuredImage: /cats/bpa/bpa_1.jpeg
-draft: true
+draft: false
 ---
 
 ## About
