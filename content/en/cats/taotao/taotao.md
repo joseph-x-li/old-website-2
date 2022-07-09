@@ -31,4 +31,10 @@ Taotao is Maomao's younger sister. She is very timid but loves to eat and often 
 
 ## Gallery
 
-Coming soon...
+<ul class="columns">
+  <li class="item"><img src="/cats/taotao/taotao_1.jpeg"></li>
+  <li class="item"><img src="/cats/taotao/taotao_2.jpeg"></li>
+  <li class="item"><img src="/cats/taotao/taotao_3.jpeg"></li>
+  <li class="item"><img src="/cats/taotao/taotao_4.jpeg"></li>
+  <li class="item"><img src="/cats/taotao/taotao_5.jpeg"></li>
+</ul>

@@ -30,8 +30,8 @@ Praline has been caught playing poker. She is old and might pass soon. Please pr
 ## Gallery
 <ul class="columns">
   <li class="item"><img src="/cats/praline/praline_1.jpeg"></li>
+  <li class="item"><img src="/cats/praline/praline_2.jpeg"></li>
+  <li class="item"><img src="/cats/praline/praline_4.jpeg"></li>
   <li class="item"><img src="/cats/praline/praline_3.jpeg"></li>
   <li class="item"><img src="/cats/praline/praline_5.jpeg"></li>
-  <li class="item"><img src="/cats/praline/praline_4.jpeg"></li>
-  <li class="item"><img src="/cats/praline/praline_6.jpeg"></li>
 </ul>
