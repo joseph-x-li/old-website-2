@@ -18,7 +18,7 @@ draft: false
 **Location:** Seoul, Korea  
 **Owner:** Katie Yoon and her family  
 **Breed:** Various  
-**Sex:** Female  
+**Sex:** Peanut & Butter: Male; Linda: Female  
 
 Peanut is the one that wears an orange jacket.  
 Butter is the one that is nearly all white.  
