@@ -25,6 +25,6 @@ When I entered college, I was just a silly kid who never imagined he would be lu
 
 In a few days, I will start my Senior year of college. These next few months will decide huge aspects of my life. I will work hard to earn an exciting job in technology; I look forward to challenging yet rewarding systems classes; but, I dread graduation day, when I will have to say so many painful goodbyes. 
 
-I came to CMU alone. Those willing to talk with me slowly populated my life and became my most precious friends. Soon, they will all have scattered across the country, each striving for their own goals and building their own lives. When I graduate and begin my own journey, alone yet again, rest assured I will never forget all you have done to help me get there.
+I came to CMU alone. Those willing to talk with me slowly populated my life and became my most precious friends. Soon, they will all have scattered across the country, each striving for their own goals and building their own lives. When I graduate and begin my own journey, alone yet again, I promise will never forget all you have done to help me get there.
 
 Joey Li
