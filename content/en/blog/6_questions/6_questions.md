@@ -10,7 +10,7 @@ date: 2022-08-17T01:16:35-07:00
 lastmod: 2022-08-17T01:16:35-07:00
 featuredVideo:
 featuredImage:
-draft: false
+draft: true
 ---
 
 I can confidently say that in my twenty years of existence, nobody has changed my life as much as you have.
